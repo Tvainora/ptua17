@@ -1,9 +1,74 @@
 import random
 
-items_list = ["apple", "cabbage", "pineapple", "bread", "beer", "banana", "meat", "beef", "chicken", "juice"]
-prices_list = [3, 4, 5, 7, 2, 1, 10, 34, 12, 9, 12]
-quantity = [50, 40, 15, 20, 100, 30, 10, 1, 2, 3, 4]
+# def print_random_stuff(name, age=12, *args, **kwargs) -> None:
+#     print(name, age)
+#     print(args)
+#     print(kwargs)
 
+
+# print_random_stuff(
+#     "Jonas",
+#     "Petras",
+#     "Antanas",
+#     "Mindaugas",
+#     random_name="Tomas",
+#     random_name_2="Tomas",
+# )
+
+
+# def new_func(a, b, c, d=20, *args, **kwargs) -> None:
+#     print(a, b, c, d)
+#     if args:
+#         # I do whatever I want with args
+#         # args is a tuple
+#         print(args)
+#     if kwargs:
+#         # I do whatever I want with kwargs
+#         # kwargs is a dictionary
+#         print(kwargs)
+
+
+
+
+# items_list = ["apple", "cabbage", "pineapple", "bread", "beer", "banana", "meat", "beef", "chicken", "juice"]
+# prices_list = [3, 4, 5, 7, 2, 1, 10, 34, 12, 9, 12]
+# quantity = [50, 40, 15, 20, 100, 30, 10, 1, 2, 3, 4]
+
+def items_list  [a:str ="apple", 
+                b:str ="cabbage",
+                c:str = "pineapple", 
+                d:str ="bread", 
+                e:str ="beer", 
+                f:str ="banana", 
+                g:str ="meat", 
+                h:str ="beef", 
+                i:str ="chicken", 
+                j:str ="juice"]:
+list = item_list.randomized
+
+def prices_list  [a: int=3, 
+                b: int=4, 
+                c: int=5, 
+                d: int=7, 
+                e: int=2, 
+                f: int=1, 
+                g: int=10, 
+                h: int=34, 
+                i: int=12, 
+                j: int=9, 
+                k: int=12]
+
+def quantity  [a: int=50, 
+               b: int=40, 
+               c: int=15, 
+               d: int=20, 
+               e: int=100, 
+               f: int=30, 
+               g: int=10, 
+               h: int=1, 
+               i: int=2, 
+               j: int=3, 
+               k: int=4]   
 
 while True:
         baskets_quantity = int(input("How many baskets would you like me to generate? 5-10 "))

@@ -38,9 +38,9 @@
 
 # Calculate average speed in meters/sec .Distance is given in Km and time in hours.
 
-def speed (k):
-    ms = k * 5 / 18
-    return ms 
+# def speed (k):
+#     ms = k * 5 / 18
+#     return ms 
 
-spped=speed(100)
-print(spped)
+# spped=speed(100)
+# print(spped)
