@@ -28,7 +28,7 @@ def menu():
     print("[4] Remove Task")
     print("[5] Exit")
 
-task_list : list[dict[str, str | bool]] = []
+task_list : list[dict[str, str | bool]] = [] 
 
 def display_tasks(task_list_):
 

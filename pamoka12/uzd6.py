@@ -1,3 +1,6 @@
+import math
+
+
 def is_square(num):
     root = math.sqrt(num)  # arba root = num ** 0.5
     return root == int(root)

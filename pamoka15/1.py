@@ -1,0 +1,2 @@
+# Implement main.py with a logic. so that user can enter file name for example : test.json. You need to use two functions above to read file and parse that json and print output into terminal like this
+# print("Successfully loaded JSON data:", data)

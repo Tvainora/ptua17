@@ -9,6 +9,6 @@
 # a = [i for i in range (1, 1000) if "9" in str(i)]
 # print(a)  
 
-sentence=str(input("Enter your sentence: "))
+
 
 

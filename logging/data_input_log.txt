@@ -1,0 +1,4 @@
+2025-02-17 19:02:26 - root - INFO - User input: as
+2025-02-17 19:02:28 - root - INFO - User input: tu
+2025-02-17 19:02:31 - root - INFO - User input: peter
+2025-02-17 19:02:35 - root - INFO - User input: labasas

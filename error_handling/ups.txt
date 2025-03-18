@@ -1,0 +1,74 @@
+2025-02-18 19:38:42 - root - ERROR - Exception occurred!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 72, in safe_divide
+    c = a / b
+        ~~^~~
+ZeroDivisionError: division by zero
+2025-02-18 19:38:42 - root - ERROR - Exception occurred!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 72, in safe_divide
+    c = a / b
+        ~~^~~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2025-02-18 19:45:12 - root - ERROR - Error!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 72, in safe_divide
+    c = a / b
+        ~~^~~
+ZeroDivisionError: division by zero
+2025-02-18 19:45:12 - root - ERROR - Error!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 72, in safe_divide
+    c = a / b
+        ~~^~~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 18:03:02 - root - ERROR - Error!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 72, in safe_divide
+    c = a / b
+        ~~^~~
+ZeroDivisionError: division by zero
+2025-02-19 18:03:02 - root - ERROR - Error!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 72, in safe_divide
+    c = a / b
+        ~~^~~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 18:11:24 - root - ERROR - Error!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 72, in safe_divide
+    c = a / b
+        ~~^~~
+ZeroDivisionError: division by zero
+2025-02-19 18:11:24 - root - ERROR - Error!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 72, in safe_divide
+    c = a / b
+        ~~^~~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 18:15:45 - root - ERROR - Error!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 58, in safe_divide
+    c = a / b
+        ~~^~~
+ZeroDivisionError: division by zero
+2025-02-19 18:15:45 - root - ERROR - Error!
+Traceback (most recent call last):
+  File "C:\Users\vaino\ptua17\error_handling\1.py", line 58, in safe_divide
+    c = a / b
+        ~~^~~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 18:43:42 - root - ERROR - Error! division by zero
+2025-02-19 18:43:42 - root - ERROR - Error! unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 18:52:28 - root - ERROR - Error! division by zero
+2025-02-19 18:52:28 - root - ERROR - Error! unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 18:54:08 - root - ERROR - Error! division by zero
+2025-02-19 18:54:08 - root - ERROR - Error! unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 18:55:29 - root - ERROR - Error! division by zero
+2025-02-19 18:55:29 - root - ERROR - Error! unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 18:56:55 - root - ERROR - Error! division by zero
+2025-02-19 18:56:55 - root - ERROR - Error! unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 18:59:37 - root - ERROR - Error! division by zero
+2025-02-19 18:59:37 - root - ERROR - Error! unsupported operand type(s) for /: 'int' and 'str'
+2025-02-19 19:00:22 - root - ERROR - Error! division by zero
+2025-02-19 19:00:22 - root - ERROR - Error! unsupported operand type(s) for /: 'int' and 'str'
