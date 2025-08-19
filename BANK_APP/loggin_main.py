@@ -1,3 +1,9 @@
+print("Wellcome to BANK PRO app!")
+
+user_login = input("Enter your login: ")
+# user_email = input("Enter your E-mail here: ")
+
+
 import json
 email_list = list()
 
@@ -34,7 +40,7 @@ class login:
 
 
 
-    user_email = str(input("To loggint please enter your email: "))
+    user_email = str(input("Enter your E-mail here: "))
     
 
     if validate_email(user_email):
@@ -42,4 +48,4 @@ class login:
     
     else:
         print("E-mail adress was incorect. Please try again.")
-        
+

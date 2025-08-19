@@ -5,3 +5,5 @@ Create a banking app (user console for now), that would do few simple tasks (for
  - Code must be speared through different modules
  - Logging, Git should be in place. 
  - Use class structures and access modifiers
+
+ 
